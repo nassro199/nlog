@@ -1,0 +1,25 @@
+{
+  "name": "nlog",
+  "version": "1.0.0",
+  "description": "Simple Node.js Logging Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassro199/nlog.git"
+  },
+  "keywords": [
+    "logger",
+    "nlog",
+    "log",
+    "nodelogger"
+  ],
+  "author": "nassro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nassro199/nlog/issues"
+  },
+  "homepage": "https://github.com/nassro199/nlog#readme"
+}
