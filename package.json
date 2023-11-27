@@ -1,5 +1,5 @@
 {
-  "name": "nlog",
+  "name": "@nassro190/nlog",
   "version": "1.0.0",
   "description": "Simple Node.js Logging Library",
   "main": "index.js",
