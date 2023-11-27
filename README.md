@@ -7,10 +7,13 @@
 <p>Install <code>nlog</code> using npm:</p>
 
 <pre><code>
+```bash
 npm install nlog
+```
 </code></pre>
 
 <pre><code>
+```js
 const { Logger, LogLevel, nlog } = require("nlog");
 
 const log = new Logger({ production: true, prefix: "MyLibrary" });
@@ -20,4 +23,5 @@ log(LogLevel.Info, "Hello, World!");
 
 const newLog = nlog({ production: true, prefix: "MyLibrary" });
 newLog(LogLevel.Info, "Hello, World!");
+```
 </code></pre>
